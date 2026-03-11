@@ -19,6 +19,13 @@ Applies to all cross-functional projects that deliver product features, services
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
+- Support / Customer Support Representative: surfaces user feedback, triages production issues.
+- UX Designer: designs user experiences and validates usability.
+- Business Analyst: clarifies requirements and bridges business needs to technical delivery.
+- Security Champion: promotes security-first practices and reviews release readiness.
+
+See [Roles & Personas](octoacme-roles-and-personas.md) for full role definitions, responsibilities, and the RACI quick reference.
+See [Role Interaction Checklist](octoacme-role-interaction-checklist.md) for per-phase handoffs and consultation guides.
 
 ## Key Artifacts
 - Project Charter / One-pager
